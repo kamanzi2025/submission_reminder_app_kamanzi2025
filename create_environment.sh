@@ -76,6 +76,11 @@ Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
+Emmanuel, Shell Scripting, not submitted
+Blessing,Quiz 2, submitted
+Joshua, Quiz 1, not submitted
+Esther,Individual lab, submitted
+David, Coded lab, not submitted
 EOF
 
 # make startup.sh
