@@ -11,9 +11,13 @@ This repo contains a script (`create_environment.sh`) that automates the set up 
 
 ## How It Works
 . create_environment.sh: This script sets up the required directory structure dynamically. It asks for the user’s name and creates a directory called submission_reminder_{YourName}, where {YourName} is replaced with the provided input.
+
 . startup.sh: This script initializes the reminder application, ensuring all components are executed correctly.
+
 . reminder.sh: Reads student submission data and alerts them about pending deadlines.
+
 . functions.sh: Contains helper functions to process and check submission statuses.
+
 . submissions.txt: Stores student assignment submission records in CSV format.
 
 ## Contents
