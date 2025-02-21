@@ -37,6 +37,6 @@ This repo contains a script (`create_environment.sh`) that automates the set up 
 * config.env: Assignment info.
 * reminder.sh: Reminder script.
 * functions.sh: Submission check function.
-* submissions.txt: Student data (CSV format).
+* submissions.txt: Student data.
 * startup.sh: Runs reminder.sh.
 
